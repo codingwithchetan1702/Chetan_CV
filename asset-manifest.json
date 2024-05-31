@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/.github.io/Chetan_CV/static/css/main.f855e6bc.css",
+    "main.js": "/.github.io/Chetan_CV/static/js/main.608ab4c9.js",
+    "static/js/453.26796fb8.chunk.js": "/.github.io/Chetan_CV/static/js/453.26796fb8.chunk.js",
+    "static/media/chetan_1.jpg": "/.github.io/Chetan_CV/static/media/chetan_1.8478f7d500be1468b5fd.jpg",
+    "index.html": "/.github.io/Chetan_CV/index.html",
+    "main.f855e6bc.css.map": "/.github.io/Chetan_CV/static/css/main.f855e6bc.css.map",
+    "main.608ab4c9.js.map": "/.github.io/Chetan_CV/static/js/main.608ab4c9.js.map",
+    "453.26796fb8.chunk.js.map": "/.github.io/Chetan_CV/static/js/453.26796fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.608ab4c9.js"
+  ]
+}
